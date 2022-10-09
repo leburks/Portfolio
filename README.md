@@ -5,4 +5,4 @@ I will be using this to showcase my projects.
 
 
 ##screenshort.
-![Screenshot 2022-06-21 3 26 00 PM](https://user-images.githubusercontent.com/71715738/174891561-22c62127-7290-4f40-9929-a37978cd3d7e.png)
+![image](https://user-images.githubusercontent.com/71715738/194779826-4086c8cf-2cef-48b8-9852-4746f390baa5.png)
